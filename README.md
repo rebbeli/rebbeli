@@ -31,8 +31,16 @@ sub   cv25519 2020-12-16 [E]
 
 ---
 
-- 📫 Reach me at rebbeli -- @ -- protonmail -- dot -- com, encrypted and signed please.
-- 👯 I'd like to collaborate on Global Solutions for Global Problems.
-- 🔭 I’m currently working on ending the brutal and terroristic policing structure.
-- 🌱 Universal Basic Income
-- 💬 Decentralized, Secure, Open, Direct Democracy
+- 👯 I would like to collaborate on Global Solutions for Global Problems:
+  - 🔭 Ending the brutal and terroristic policing structure. 
+  - 🌱 Protect and defend Encryption, Privacy, and Information.   
+  - 🌱 Further the arguments and build structures for Universal Basic Income. 
+  - 💬 Discuss and push for adopting a blockchain voting system, fully
+       decentralized and open, as well as secure and private.  Malicious
+       providence for the right-wing, and the left.  Only the People win.  
+
+---
+
+- 📫 Reach me at ```rebbeli@protonmail```, _encrypted_ and _signed_ please.  
+     That is not necessarily for the sake of security, but _principle_. 
+     You might be surprised how much you can help.
